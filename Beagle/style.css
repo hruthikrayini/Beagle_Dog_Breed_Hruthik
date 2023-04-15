@@ -1,0 +1,63 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+
+.topmost {
+	background-color: #fff7e5;
+	padding: 30px;
+	text-align: center;
+}
+
+.topmost h1 {
+	font-size: 36px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.topmost p {
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+.topmost a {
+	display: block;
+	margin-top: 20px;
+	font-size: 18px;
+	text-decoration: none;
+	color: #333;
+}
+
+.topmost a:hover {
+	text-decoration: underline;
+}
+
+.image {
+	background-color: #f7f7f7;
+	padding: 30px;
+	text-align: center;
+}
+
+.image img {
+	max-width: 100%;
+	height: auto;
+	margin-bottom: 20px;
+}
+
+.image a {
+	display: inline-block;
+	margin-top: 10px;
+	font-size: 18px;
+	text-decoration: none;
+	color: #333;
+}
+
+.image a:hover {
+	text-decoration: underline;
+}
+
+.trivia
+{
+    background-color: white;
+}
